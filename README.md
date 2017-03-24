@@ -1,7 +1,7 @@
 # SOLID-antonym
 SOLID is a meta-acronym which helps to create a maintainable quality software resp architecture. This repository seeks to find its opposite in order to clarify why SOLID is important. Please see also https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 
-=SOLID=
+## SOLID
 
 S Single Responsibility Principle
 O Open/Closed Principle
@@ -9,7 +9,7 @@ L Liskov Substitution Principle
 I Interface Segregation Principle
 D Dependency Inversion
 
-=FLUID=
+## FLUID
 
 F Full Responsibility for everything     (God Class Syndrome)
 L Less perspective for the future        ("Why should they be happy?")
